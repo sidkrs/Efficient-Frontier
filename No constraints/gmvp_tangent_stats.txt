@@ -1,0 +1,30 @@
+
+Global Minimum Variance Portfolio:
+Return: 0.1532
+Volatility: 0.1515
+Weights:
+  AAPL: 0.0134
+  AMZN: 0.1020
+  BRK-B: 0.3572
+  GOOGL: 0.0835
+  LLY: 0.1348
+  META: 0.0360
+  MSFT: 0.2019
+  NVDA: -0.0864
+  TSLA: -0.0685
+  UNH: 0.2261
+
+Tangent Portfolio:
+Return: 1.3132
+Volatility: 0.5054
+Weights:
+  AAPL: 0.4141
+  AMZN: -1.0971
+  BRK-B: -0.6079
+  GOOGL: 0.1835
+  LLY: 1.2685
+  META: 0.1919
+  MSFT: -1.3985
+  NVDA: 0.9741
+  TSLA: 0.2722
+  UNH: 0.7991

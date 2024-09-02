@@ -1,0 +1,56 @@
+
+Global Minimum Variance Portfolio:
+Return: 0.3194
+Volatility: 0.1830
+Weights:
+  AAPL: 0.0500
+  AMZN: 0.0500
+  BRK-B: 0.1917
+  GOOGL: 0.0500
+  LLY: 0.1806
+  META: 0.0500
+  MSFT: 0.0500
+  NVDA: 0.0500
+  TSLA: 0.0500
+  UNH: 0.2777
+
+Tangent Portfolio:
+Return: 0.4660
+Volatility: 0.2330
+Weights:
+  AAPL: 0.0500
+  AMZN: 0.0500
+  BRK-B: 0.0500
+  GOOGL: 0.0500
+  LLY: 0.4117
+  META: 0.0500
+  MSFT: 0.0500
+  NVDA: 0.1883
+  TSLA: 0.0500
+  UNH: 0.0500
+
+GMVP Allocation:
+Stock    Allocation
+  UNH $2,777,073.70
+BRK-B $1,917,069.65
+  LLY $1,805,856.64
+ TSLA   $500,000.00
+ AAPL   $500,000.00
+ MSFT   $500,000.00
+ AMZN   $500,000.00
+GOOGL   $500,000.00
+ META   $500,000.00
+ NVDA   $500,000.00
+
+Tangent Portfolio Allocation:
+Stock    Allocation
+  LLY $4,116,512.86
+ NVDA $1,883,487.14
+ META   $500,000.00
+ AAPL   $500,000.00
+BRK-B   $500,000.00
+ AMZN   $500,000.00
+ TSLA   $500,000.00
+  UNH   $500,000.00
+ MSFT   $500,000.00
+GOOGL   $500,000.00
