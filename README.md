@@ -22,7 +22,7 @@ This project implements an efficient frontier portfolio optimization tool for a 
 ## Installation
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/portfolio-optimization-tool.git
+   git clone https://github.com/sidkrs/portfolio-optimization-tool.git
    ```
 2. Install the required packages:
    ```
